@@ -1,0 +1,4 @@
+var valor1 = window.prompt('Digite o Primeiro Número da Soma')
+var valor2 = window.prompt('Digite o Segundo Número da Soma')
+var res = valor1 + valor2
+window.alert(`O Resultado da Soma é: ${res} (informações tidara de Edson Arantes do Nascimento \u{1F913}`)
